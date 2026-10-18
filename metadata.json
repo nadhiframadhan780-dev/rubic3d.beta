@@ -1,0 +1,6 @@
+{
+  "name": "Rubik HD Studio 3D",
+  "description": "Game Rubik's Cube 3D modern resolusi tinggi dengan pilihan dimensi 2x2 sampai 5x5, animasi halus tanpa lag, audio sintetis, timer WCA, dan kustomisasi tema.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
